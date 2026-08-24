@@ -21,7 +21,7 @@ Final-year Computer Science student actively exploring and building projects acr
 
 ## 💼 Professional Experience
 
-* **SQA Intern — 10Pearls** `(July 2026 – Present)`
+* **SQA Intern — 10Pearls** `(July 2026 – AUG)`
   - Engineered automated UI and regression testing suites using Selenium WebDriver (Python) and Cypress.
   - Executed structured API validation and functional test cases via Postman across sprint cycles.
   - Authored test cases and tracked defects across the bug life cycle in Testworthy.
