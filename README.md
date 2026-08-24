@@ -59,7 +59,7 @@ Final-year Computer Science student actively exploring and building projects acr
 | Python (Pandas, NumPy, APIs, Data Ingestion) | DataCamp | ✅ |
 | CCNA: Introduction to Networks | Cisco Networking Academy | ✅ |
 | Data Science | NED Academy | ✅ |
-| Full-Stack Web Development | Jawan Pakistan | ✅ |
+|  Web Development | Jawan Pakistan | ✅ |
 
 ---
 
