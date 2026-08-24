@@ -19,9 +19,25 @@ Final-year Computer Science student actively exploring and building projects acr
 
 ---
 
+## 🎓 Education & Continuous Learning
+
+* **Bachelor of Science in Computer Science (BSCS)** — *Sir Syed University of Engineering and Technology (SSUET)* `(2023 – Present)`
+  - **Academic Standing:** Final-Year Student | **CGPA:** 3.60 / 4.00
+  - **Core Coursework & Concepts Mastered:**
+    - Object-Oriented Programming (OOP) & Advanced Python
+    - Database Management Systems (DBMS), Relational Schema Design & Advanced SQL
+    - Data Structures & Algorithms (DSA)
+    - Computer Networks, Subnetting & VLAN Topologies
+    - Web Application Technologies & Software Engineering Methodologies
+
+* **Data Engineering & Cloud Track** — *Saylani Mass IT Training (SMIT)* `(Currently Enrolled)`
+  - **Focus Areas:** Scalable Big Data Architectures, Cloud Data Engineering, Advanced ETL/ELT Pipeline Design, Data Warehousing, and Cloud Storage Integrations.
+
+---
+
 ## 💼 Professional Experience
 
-* **SQA Intern — 10Pearls** `(July 2026 – AUG)`
+* **SQA Intern — 10Pearls** `(July 2026 – Present)`
   - Engineered automated UI and regression testing suites using Selenium WebDriver (Python) and Cypress.
   - Executed structured API validation and functional test cases via Postman across sprint cycles.
   - Authored test cases and tracked defects across the bug life cycle in Testworthy.
@@ -41,7 +57,7 @@ Final-year Computer Science student actively exploring and building projects acr
 | ☁️ **Data Engineering & Cloud** | ETL/ELT Pipelines, Azure Data Factory (ADF), Azure Blob Storage, Data Modeling |
 | 🗄️ **Databases & Warehousing** | MySQL, PostgreSQL, T-SQL, Star Schema, Snowflake Schema, SQL Data Warehousing |
 | ⚙️ **Backend & APIs** | FastAPI, RESTful APIs, Pydantic, Uvicorn, Postman |
-| 🐍 **Programming & Scripting** | Python (Pandas, NumPy), JavaScript, SQL, PHP, HTML5/CSS3 |
+| 🐍 **Programming & Scripting** | Python (OOP, Pandas, NumPy), JavaScript, SQL, PHP, HTML5/CSS3 |
 | 📊 **BI & Analytics** | Power BI, DAX, Exploratory Data Analysis (EDA) |
 | 🧪 **Quality Assurance & Testing** | Selenium WebDriver, Cypress, Testworthy, Manual Testing, API Automation |
 | 🔧 **Tools & Networking** | Git, GitHub, VS Code, Cisco Packet Tracer, CCNA (VLANs, Routing) |
@@ -52,6 +68,7 @@ Final-year Computer Science student actively exploring and building projects acr
 
 | Certification | Issuer | Status |
 |---|---|:---:|
+| Data Engineering & Cloud Track | SMIT (Saylani Mass IT Training) | 🔄 In Progress |
 | Introduction to FastAPI & Backend Development | Self-Paced / Online | ✅ |
 | Selenium with Python | 10Pearls University | ✅ |
 | Introduction to API Testing with Postman | 10Pearls University | ✅ |
@@ -59,7 +76,7 @@ Final-year Computer Science student actively exploring and building projects acr
 | Python (Pandas, NumPy, APIs, Data Ingestion) | DataCamp | ✅ |
 | CCNA: Introduction to Networks | Cisco Networking Academy | ✅ |
 | Data Science | NED Academy | ✅ |
-|  Web Development | Jawan Pakistan | ✅ |
+| Full-Stack Web Development | Jawan Pakistan | ✅ |
 
 ---
 
@@ -70,7 +87,7 @@ Final-year Computer Science student actively exploring and building projects acr
 | 🎯 **Top 3 BI Hackathon Finish** | Ranked Top 3 out of regional teams at IBA ProBattle '26 BI competition |
 | ⚡ **Automated Workflow Engine** | Built Python Selenium bots handling complex JS alerts and dynamic DOM flows |
 | 🗄️ **Data Modeling & SQL** | Implemented dimension and fact table modeling for analytical querying |
-| 🎓 **Academic Excellence** | B.S. in Computer Science with a 3.60 CGPA at SSUET |
+| 🎓 **Academic Standing** | Consistent 3.60 CGPA in BS Computer Science at SSUET |
 
 ---
 
