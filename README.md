@@ -1,73 +1,103 @@
-# Hi there, I'm Taha Haider Khan 👋
+# Hi, I'm Taha Haider Khan 👋
 
-### 🎓 Final-Year Computer Science Student | 🚀 Data & Backend Engineer | 🧪 SQA Practitioner
+### Data Engineer | Backend Developer | SQA Practitioner
 
-I am a final-year B.S. Computer Science student specializing in building scalable backend systems, robust ETL/ELT pipelines, and automated testing frameworks. My work spans data warehousing, cloud data engineering on Azure, FastAPI microservices, and end-to-end software quality assurance.
-
----
-
-## 🛠️ Tech Stack & Skills
-
-- 💻 **Languages:** Python, JavaScript, SQL (MySQL, PostgreSQL, T-SQL), PHP, HTML5/CSS3
-- 🗄️ **Data Engineering & Warehousing:** Azure Data Factory (ADF), Azure Blob Storage, Data Modeling (Star/Snowflake), ETL/ELT Pipelines, SQL Data Warehousing, Pandas, NumPy
-- ⚙️ **Backend & APIs:** FastAPI, RESTful APIs, Pydantic, Uvicorn, Postman (API Testing & Automation)
-- 📊 **Analytics & BI:** Power BI, Exploratory Data Analysis (EDA), GIS Spatial Data Processing, DAX
-- 🧪 **Software Quality Assurance:** Selenium WebDriver (Python/Automation), Cypress, Testworthy, Test Strategy Design, Bug Life Cycle Tracking
-- 🔧 **DevOps, Networking & Tools:** Git & GitHub, VS Code, Firebase, CCNA (VLAN, Subnetting, Inter-VLAN Routing)
+Building robust data pipelines, scalable backend microservices, and automated quality frameworks.
 
 ---
 
-## 💼 Work Experience
+## 🚀 About Me
 
-* **SQA Intern** @ *10Pearls* `(July 2026 – Present)`
-  - Designed and executed automated regression suites using Selenium WebDriver and Cypress.
-  - Performed deep API testing and workflow verification via Postman.
-  - Authored comprehensive test cases and managed bug life cycles across Agile/Scrum sprints.
+Final-year Computer Science student passionate about data engineering, cloud platforms, and backend infrastructure. Experienced in orchestrating cloud ETL/ELT pipelines on Azure, designing optimized relational data warehouses, developing FastAPI microservices, and implementing automated testing frameworks.
 
-* **Data Analytics & Engineering Intern** @ *Systems Limited (VSI)* `(Sept 2025 – Oct 2025)`
-  - Built scalable cloud ETL workflows using Azure Data Factory (ADF) to ingest and stage multi-source operational data.
-  - Wrote complex, optimized SQL scripts and procedures for relational data transformations and schema mapping.
-  - Engineered analytical data models and dynamic Power BI reporting dashboards tracking core organizational KPIs.
-  - Automated data profiling and cleaning tasks on 10K+ record batches using Python (Pandas/NumPy).
+| Highlight | Detail |
+|---|---|
+| 🏗️ **Data Architecture** | Cloud ETL pipelines on Azure & optimized dimensional data warehousing |
+| ⚡ **Backend & APIs** | High-performance RESTful APIs built with FastAPI & Pydantic |
+| 🧪 **Test Automation** | Automated web scraping & regression suites using Python Selenium & Cypress |
+| 🏆 **Recognition** | Top 3 Finalist in Business Intelligence at IBA ProBattle '26 |
 
 ---
 
-## 🏆 Featured Projects
+## 💼 Professional Experience
 
-* **[Azure Data Engineering Pipeline](https://github.com/tahahaiderkhan/azure-data-engineering-project)**
-  - Built a scalable cloud data solution orchestrating ingestion, transformation, and storage layers using Azure Data Factory, Python, and SQL.
-* **[SQL Data Warehouse Project](https://github.com/tahahaiderkhan/sql_data_warehouse_project)**
-  - Designed an enterprise data warehouse schema optimizing relational schemas into dimension and fact tables for analytical query performance.
-* **[Automated Student Portal Bot & Evaluation Script](https://github.com/tahahaiderkhan)**
-  - Developed a headless Selenium automation script with dynamic alert handling, JavaScript event dispatching, and multi-window navigation for end-to-end task automation.
-* **[ICC T20 World Cup 2022 Analytics](https://github.com/tahahaiderkhan/Powerbi_project_worldcup_cricket_22)**
-  - Extracted, cleaned, and modeled tournament performance data with Python and Power BI to build interactive scouting and player evaluation dashboards.
-* **[Restaurant Ratings & Spatial EDA](https://github.com/tahahaiderkhan/Restaurant-Ratings-Analysis)**
-  - Conducted location-based business intelligence, EDA, and rating trend analytics using Python data science libraries.
-* **GIS Spatial Mapping & Analytics Project**
-  - Integrated geospatial datasets to evaluate location distribution, feature density, and regional parameters using structured data workflows.
-* **Business Intelligence Analytics (IBA ProBattle '26)** — *Ranked Top 3*
-  - Built a complete BI pipeline covering ETL, exploratory analysis, and executive Power BI dashboards under competitive hackathon constraints.
+* **SQA Intern — 10Pearls** `(July 2026 – Present)`
+  - Engineered end-to-end automated UI and regression testing suites using Selenium WebDriver (Python) and Cypress.
+  - Executed structured API validation and performance testing via Postman across Agile sprint cycles.
+  - Designed comprehensive test cases and managed bug life cycle tracking in Testworthy.
+
+* **Data Analytics & Engineering Intern — Systems Limited (VSI)** `(Sept 2025 – Oct 2025)`
+  - Built scalable cloud ETL ingestion and staging pipelines utilizing Azure Data Factory (ADF) and Azure Blob Storage.
+  - Formulated complex, optimized SQL scripts and stored procedures for enterprise data transformation and schema mapping.
+  - Engineered analytical data models and built executive Power BI dashboards to track operational KPIs.
+  - Automated data profiling and validation on 10K+ record batches using Python (Pandas/NumPy).
 
 ---
 
-## 📜 Certifications
+## 🛠️ Technical Expertise
 
-- **Introduction to FastAPI and Backend Development Fundamentals**
-- **Selenium with Python** — *10Pearls University*
-- **Introduction to API Testing with Postman** — *10Pearls University*
-- **QA Fundamentals** — *10Pearls University*
-- **Python (Pandas, NumPy, APIs, Importing Data)** — *DataCamp*
-- **CCNA: Introduction to Networks** — *Cisco*
-- **Data Science** — *NED Academy*
-- **Web Development Certificate** — *Jawan Pakistan*
+| Category | Technologies & Tools |
+|---|---|
+| ☁️ **Cloud & Data Engineering** | Azure Data Factory (ADF), Azure Blob Storage, ETL/ELT Pipelines, Data Modeling |
+| 🗄️ **Databases & Warehousing** | MySQL, PostgreSQL, T-SQL, Star Schema, Snowflake Schema, Data Warehousing |
+| ⚙️ **Backend & APIs** | FastAPI, RESTful APIs, Pydantic, Uvicorn, Postman |
+| 🐍 **Programming & Scripting** | Python (Pandas, NumPy), JavaScript, SQL, PHP, HTML5/CSS3 |
+| 📊 **BI & Analytics** | Power BI, DAX, Exploratory Data Analysis (EDA), GIS Spatial Mapping |
+| 🧪 **Quality Assurance & Testing** | Selenium WebDriver, Cypress, Testworthy, Manual Testing, API Automation |
+| 🔧 **DevOps, Networking & Tools** | Git, GitHub, VS Code, Cisco Packet Tracer, CCNA (VLANs, Inter-VLAN Routing) |
 
 ---
 
-## ⚡ Education & Quick Contact
+## 🏆 Certifications & Training
 
-- 🎓 **Education:** B.S. in Computer Science (CGPA: 3.60) | Sir Syed University of Engineering and Technology
-- 📍 **Location:** Karachi, Pakistan
-- 📧 **Email:** tahaheyderkhan@gmail.com
-- 💼 **LinkedIn:** [linkedin.com/in/tahahaiderkhan](https://linkedin.com/in/tahahaiderkhan)
-- 🐙 **GitHub:** [github.com/tahahaiderkhan](https://github.com/tahahaiderkhan)
+| Certification | Issuer | Status |
+|---|---|:---:|
+| Introduction to FastAPI & Backend Development | Self-Paced / Online | ✅ |
+| Selenium with Python | 10Pearls University | ✅ |
+| Introduction to API Testing with Postman | 10Pearls University | ✅ |
+| QA Fundamentals | 10Pearls University | ✅ |
+| Python (Pandas, NumPy, APIs, Data Ingestion) | DataCamp | ✅ |
+| CCNA: Introduction to Networks | Cisco Networking Academy | ✅ |
+| Data Science | NED Academy | ✅ |
+| Full-Stack Web Development | Jawan Pakistan | ✅ |
+
+---
+
+## ⭐ Key Highlights & Milestones
+
+| Milestone | Detail |
+|---|---|
+| 🎯 **Top 3 BI Hackathon Finish** | Ranked Top 3 out of regional teams at IBA ProBattle '26 BI competition |
+| ⚡ **Automated Workflow Engine** | Built robust headless Selenium bots handling complex JS alerts and dynamic DOM flows |
+| 🗄️ **Warehouse Optimization** | Implemented dimension and fact table modeling for performant OLAP queries |
+| 🎓 **Academic Excellence** | B.S. in Computer Science with a 3.60 CGPA at SSUET |
+
+---
+
+## 📚 Featured Projects
+
+| Project | Stack | Impact |
+|---|---|---|
+| 🔷 **[Azure Data Engineering Pipeline](https://github.com/tahahaiderkhan/azure-data-engineering-project)** | Azure Data Factory · Python · SQL | Orchestrated multi-tier data ingestion and transformation pipelines on Azure. |
+| 💙 **[SQL Data Warehouse Architecture](https://github.com/tahahaiderkhan/sql_data_warehouse_project)** | SQL · Data Modeling · T-SQL | Designed star/snowflake schemas optimizing analytical querying and storage. |
+| 🤖 **[SSUET Survey Automation Bot](https://github.com/tahahaiderkhan/ssuet-servey-autamation)** | Python · Selenium · JavaScript Injection | Automated end-to-end multi-step portal evaluation forms with native JS alert handling, dynamic radio selections, and window management. |
+| 🏏 **[ICC T20 World Cup Analytics](https://github.com/tahahaiderkhan/Powerbi_project_worldcup_cricket_22)** | Power BI · DAX · Python | Extracted, modeled, and visualized player match metrics for scouting insights. |
+| 🍽️ **[Restaurant Ratings & Spatial EDA](https://github.com/tahahaiderkhan/Restaurant-Ratings-Analysis)** | Python · Pandas · Geospatial | Analyzed customer sentiment, demographic patterns, and location density. |
+| 🗺️ **GIS Spatial Mapping & Analytics** | Python · GIS Tools · Data Processing | Evaluated geographic parameters and spatial distributions across regional data. |
+
+---
+
+## 🤝 Let's Connect
+
+I am always open to discussing data engineering pipelines, backend architecture, SQA automation, and exciting collaborative opportunities.
+
+| Channel | Link |
+|---|---|
+| 📧 **Email** | [tahaheyderkhan@gmail.com](mailto:tahaheyderkhan@gmail.com) |
+| 💼 **LinkedIn** | [linkedin.com/in/tahahaiderkhan](https://linkedin.com/in/tahahaiderkhan) |
+| 🐙 **GitHub** | [github.com/tahahaiderkhan](https://github.com/tahahaiderkhan) |
+| 📍 **Location** | Karachi, Pakistan |
+
+---
+
+⭐ *If you find my projects useful, feel free to star the repositories!*
