@@ -1,14 +1,14 @@
 # Hi, I'm Taha Haider Khan 👋
 
-### Data Engineering Enthusiast | Backend Developer | SQA Practitioner
+### Data Engineering Enthusiast | Backend Developer
 
-Continuously learning and building ETL workflows, scalable backend microservices, and automated testing frameworks.
+Continuously learning and building ETL workflows, data pipelines, and scalable backend microservices.
 
 ---
 
 ## 🚀 About Me
 
-Final-year Computer Science student actively exploring and building projects across data engineering, cloud platforms, and backend infrastructure. Focused on developing hands-on skills in ETL processes, SQL data warehousing, Azure data workflows, FastAPI microservices, and end-to-end automated testing.
+Final-year Computer Science student actively exploring and building projects across data engineering, cloud platforms, and backend infrastructure. Focused on developing hands-on skills in ETL processes, SQL data warehousing, Azure data workflows, and backend development with FastAPI and Node.js.
 
 | Highlight | Detail |
 |---|---|
@@ -55,9 +55,9 @@ Final-year Computer Science student actively exploring and building projects acr
 | Category | Technologies & Tools |
 |---|---|
 | ☁️ **Data Engineering & Cloud** | ETL/ELT Pipelines, Azure Data Factory (ADF), Azure Blob Storage, Data Modeling |
-| 🗄️ **Databases & Warehousing** | MySQL, PostgreSQL, T-SQL, Star Schema, Snowflake Schema, SQL Data Warehousing |
-| ⚙️ **Backend & APIs** | FastAPI, RESTful APIs, Pydantic, Uvicorn, Postman |
-| 🐍 **Programming & Scripting** | Python (OOP, Pandas, NumPy), JavaScript, SQL, PHP, HTML5/CSS3 |
+| 🗄️ **Databases & Warehousing** | MySQL, PostgreSQL, Supabase, T-SQL, Star Schema, Snowflake Schema, SQL Data Warehousing |
+| ⚙️ **Backend & APIs** | Node.js, FastAPI, RESTful APIs, WhatsApp Cloud API, Pydantic, Uvicorn, Postman |
+| 🐍 **Programming & Scripting** | Python (OOP, Pandas, NumPy), JavaScript, Google Apps Script, SQL, PHP, HTML5/CSS3 |
 | 📊 **BI & Analytics** | Power BI, DAX, Exploratory Data Analysis (EDA) |
 | 🧪 **Quality Assurance & Testing** | Selenium WebDriver, Cypress, Testworthy, Manual Testing, API Automation |
 | 🔧 **Tools & Networking** | Git, GitHub, VS Code, Cisco Packet Tracer, CCNA (VLANs, Routing) |
@@ -86,6 +86,7 @@ Final-year Computer Science student actively exploring and building projects acr
 |---|---|
 | 🎯 **Top 3 BI Hackathon Finish** | Ranked Top 3 out of regional teams at IBA ProBattle '26 BI competition |
 | ⚡ **Automated Workflow Engine** | Built Python Selenium bots handling complex JS alerts and dynamic DOM flows |
+| 💬 **AI-Powered WhatsApp Finance Tools** | Built a Google Sheets-based finance bot and evolved it into a complete AI WhatsApp finance assistant |
 | 🗄️ **Data Modeling & SQL** | Implemented dimension and fact table modeling for analytical querying |
 | 🎓 **Academic Standing** | Consistent 3.60 CGPA in BS Computer Science at SSUET |
 
@@ -95,6 +96,8 @@ Final-year Computer Science student actively exploring and building projects acr
 
 | Project | Stack | Impact |
 |---|---|---|
+| 🤖 **[AI WhatsApp Finance Assistant](https://github.com/tahahaiderkhan)** | Node.js · Supabase · Groq AI · WhatsApp Cloud API | Complete AI finance assistant that runs entirely through WhatsApp. Users log and review expenses via text, voice notes, or receipt photos. Auto-detects incoming bank alerts (e.g., Meezan Bank, NayaPay) and logs them with a WhatsApp confirmation. Includes OCR receipt scanning and natural-language queries in English and Roman Urdu. |
+| 💬 **[Finance WhatsApp Bot](https://lnkd.in/p/dxqcXmCA)** | JavaScript · Google Apps Script · Google Sheets · AI Integration | Collects real-time transaction data from multiple bank accounts into a single Google Sheet. Dynamic categorization: asks for the correct category on unknown transactions and remembers it for the future. AI-generated spending insights across food, transport, and more. |
 | 🔷 **[Azure Data Engineering Pipeline](https://github.com/tahahaiderkhan/azure-data-engineering-project)** | Azure Data Factory · Python · SQL | Orchestrated multi-tier cloud data ingestion and ETL transformations on Azure. |
 | 💙 **[SQL Data Warehouse Architecture](https://github.com/tahahaiderkhan/sql_data_warehouse_project)** | SQL · Data Modeling · T-SQL | Designed star/snowflake schemas optimizing analytical query performance and storage. |
 | 🤖 **[SSUET Survey Automation Bot](https://github.com/tahahaiderkhan/ssuet-servey-autamation)** | Python · Selenium · JavaScript Injection | Automated end-to-end portal evaluation forms with alert handling, dynamic radio selection, and window switching. |
