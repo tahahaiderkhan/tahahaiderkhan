@@ -1,6 +1,6 @@
 # Hi, I'm Taha Haider Khan 👋
 
-### Data Engineering Enthusiast | Backend Developer
+### Data Engineering  | Backend Developer
 
 Continuously learning and building ETL workflows, data pipelines, and scalable backend microservices.
 
